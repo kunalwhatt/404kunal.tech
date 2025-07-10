@@ -1,0 +1,74 @@
+[
+  
+  {
+    "name": "GlowUP Essentials",
+    "detail": " APP for ur skincare and reports ",
+    "image": "https://framerusercontent.com/images/m7RlB3nTZHnVAIpzfTXKLphgDcA.png",
+    "link1": "https://glowup.framer.ai",
+    "button-name": "Visit"
+  },
+    {
+      "name": "Fintech app",
+      "detail": "Confidential (Under Nda) ",
+      "image": "./fin.webp",
+      "link1": "https://bullsshire.vercel.app",
+      "button-name": "Visit"
+    },
+    {
+      "name": "Random song",
+      "detail": "Showcasing youtube , spotify api ",
+      "image": "./rndson.webp",
+      "link1": "https://main--random-song-swiftie.netlify.app/",
+      "button-name": "Visit"
+    },
+{
+      "name": "musix taste anal-yser",
+      "detail": "spotify api , reddit data , ai",
+      "image": "./MacBook Pro 14_ - 4.webp",
+      "button-name": "Visit",
+      "link1": "https://music-taste-analyzer.netlify.app/"
+    
+    },
+    {
+      "name": "Tedx website",
+      "detail": "Tcet's tedx website",
+      "image": "./tedx.webp",
+      "link1": "https://www.tedxtcet.com/",
+      "button-name": "Visit"
+      
+    },
+    {
+      "name": "Figma artist",
+      "detail": "hard figma skills",
+      "image": "./Screenshot_20231127_180424.webp",
+      "link1": "https://www.figma.com/proto/V4pPL77ZwmtynMzBbgt5ox/Untitled?type=design&node-id=37-2&t=HgIdD7bFlolK2ciz-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=37%3A2&show-proto-sidebar=1",
+    
+      "button-name": "Visit"
+    
+    },
+    {
+      "name": "Furguardian",
+      "detail": "an app to help all your furry friends",
+      "image": "./Screenshot_20231203_142002.webp",
+      "button-name": "Code",
+      "link1": "    "
+   
+    },
+    {
+      "name": "Font Lab",
+      "detail": "Your One stop webapp for Fonts ",
+      "image": "https://font-lab.vercel.app/Bard_Generated_Image.jpg",
+      "button-name": "Visit",
+      "link1": "font-lab.vercel.app"
+   
+    },
+      {
+        "name": "NutriSnap ",
+        "detail": " Your One stop webapp for all your skincare and fitness goals ",
+        "image": "https://nutrisnap.vercel.app/header%202.webp",
+        "button-name": "Visit",
+        "link1": "nutrisnap.vercel.app"
+     
+      }
+
+  ]
