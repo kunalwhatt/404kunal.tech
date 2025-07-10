@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6f74614.css",
+    "main.js": "/static/js/main.d24f570d.js",
+    "static/js/453.b9a2a403.chunk.js": "/static/js/453.b9a2a403.chunk.js",
+    "static/media/IMG_1941.webp": "/static/media/IMG_1941.dc7b2c3ba35aa8522fd1.webp",
+    "static/media/IMG_8189.webp": "/static/media/IMG_8189.ab1fd4b6a5d272a7007a.webp",
+    "static/media/WLC-unscreen.gif": "/static/media/WLC-unscreen.2ed32639aca1d12664b6.gif",
+    "static/media/batch_DSC08329.webp": "/static/media/batch_DSC08329.2a4c53d49e766684ef65.webp",
+    "static/media/batch_DSC08316.webp": "/static/media/batch_DSC08316.ffbe7e42f562cef1cf11.webp",
+    "static/media/1741268659822.webp": "/static/media/1741268659822.daa0f4364091a739e4b0.webp",
+    "static/media/arges-variable-wght-wdth-slnt.ttf": "/static/media/arges-variable-wght-wdth-slnt.9b34faf672813b0ba86b.ttf",
+    "static/media/1745440546955.webp": "/static/media/1745440546955.6a284677e46202c916f3.webp",
+    "static/media/NoiseRectangle.webp": "/static/media/NoiseRectangle.40bf7e138e713a6f8bd0.webp",
+    "static/media/vcr.ttf": "/static/media/vcr.10cf96d54dcd9af0486c.ttf",
+    "static/media/PPMori-Extralight.otf": "/static/media/PPMori-Extralight.78d084cbf7ae991057eb.otf",
+    "static/media/j (online-video-cutter.com).mp4": "/static/media/j (online-video-cutter.com).a241e7723e2fd6d6ac03.mp4",
+    "static/media/k (online-video-cutter.com).mp4": "/static/media/k (online-video-cutter.com).8f1bb20cc6d4fb3c4dd8.mp4",
+    "static/media/m (online-video-cutter.com).mp4": "/static/media/m (online-video-cutter.com).ff44b8f42e0fadf10838.mp4",
+    "static/media/a (online-video-cutter.com).mp4": "/static/media/a (online-video-cutter.com).4160cd3c711b9109516a.mp4",
+    "static/media/w (online-video-cutter.com).mp4": "/static/media/w (online-video-cutter.com).7905c9545bbb875adf4a.mp4",
+    "static/media/fraction.cjs": "/static/media/fraction.7992481f3d8339b77604.cjs",
+    "static/media/sound_on.webp": "/static/media/sound_on.788874f011c62e082f5f.webp",
+    "index.html": "/index.html",
+    "static/media/index.cjs": "/static/media/index.f6d03137e8c9dd0de04c.cjs",
+    "main.e6f74614.css.map": "/static/css/main.e6f74614.css.map",
+    "main.d24f570d.js.map": "/static/js/main.d24f570d.js.map",
+    "453.b9a2a403.chunk.js.map": "/static/js/453.b9a2a403.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f74614.css",
+    "static/js/main.d24f570d.js"
+  ]
+}
