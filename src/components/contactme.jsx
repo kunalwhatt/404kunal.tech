@@ -78,7 +78,7 @@ function Contact() {
     e.preventDefault();
     const currentForm = form.current;
     if (currentForm == null) return;
-    emailjs.sendForm('service_bbseo55', 'Gmail', currentForm, 'iYuuTZgCo-QUTFgGD')
+    emailjs.sendForm('service_bbseo55', 'template_cukvfwc', currentForm, 'iYuuTZgCo-QUTFgGD')
       .then((result) => {
           // console.log(result.text);
           alert("Email Sent");
