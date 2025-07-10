@@ -76,7 +76,7 @@ function Contact() {
     }
     emailjs.sendForm(
       'service_bbseo55',            // Service ID
-      'template_3nuwl29',           // Template ID
+      'template_2u7agtp',           // Template ID
       currentForm,                  // Form ref
       'iYuuTZgCo-QUTFgGD'           // Public key
     )
@@ -148,7 +148,7 @@ function Contact() {
                     label='name'
                     id='name'
                     style={{ backgroundColor: 'transparent' }}
-                    name='from_name'
+                    name='name'
                     placeholder='Name'
                     required
                     className='w-full p-2 border-b border-pink-300 text-pink-300 focus:outline-none focus:border-pink-500'
@@ -159,7 +159,7 @@ function Contact() {
                     style={{ backgroundColor: 'transparent' }}
                     type='email'
                     id='email'
-                    name='from_email'
+                    name='email'
                     placeholder='Email'
                     required
                     className='w-full p-2 border-b border-pink-300 text-pink-300 focus:outline-none focus:border-pink-500'
