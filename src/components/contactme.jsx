@@ -76,7 +76,7 @@ function Contact() {
     }
     emailjs.sendForm(
       'service_bbseo55',            // Service ID
-      'template_cukvfwc',           // Template ID
+      'template_3nuwl29',           // Template ID
       currentForm,                  // Form ref
       'iYuuTZgCo-QUTFgGD'           // Public key
     )
